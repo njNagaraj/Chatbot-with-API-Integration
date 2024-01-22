@@ -11,7 +11,7 @@ Then run python run.py
 
 Experience your chatbot integration on the local server
 
-if you dont know what is gradio head over to https://www.gradio.app/guides/quickstart
+if you don't know what is gradio head over to https://www.gradio.app/guides/quickstart
 
 Gradio is an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitary Python function
 
