@@ -2,8 +2,8 @@
 
 Here i'm using OpenAi api key 
 
-openai.api_key = "API_KEY"
-replace the "API_KEY" with your actual API key
+openai.api_key = os.environ['API_KEY']
+replace the os.environ['API_KEY'] with your actual API key in a string or set it as an environmental variable like above.
 
 Then run pip install -r requirements.txt
 
